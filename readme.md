@@ -5,7 +5,7 @@
 :man_technologist: 2021's Goals:Contribute more to Open Source projects<br>
 :sparkler: Love to Experiment on Tech<br><br>
 
-[<img align="left" alt="-" width="152px" src="https://i.ibb.co/s9RnvHp/template.png" />][Resume]
+[<img align="left" alt="-" width="152px" src="template.png" />][Resume]
 
 <br>
 
