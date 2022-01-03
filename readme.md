@@ -49,6 +49,6 @@
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [website]: https://www.linkedin.com/in/saurav-kumar-ab595b99/
-[Resume]: https://drive.google.com/file/d/1gl8G8RxvwuKOrMJ-DCVLbAQKiVn3zDQs/view?usp=sharing
+[Resume]: https://drive.google.com/file/d/1NFw6hCWv0yomhbPIG9IzuTO76Pf8cs9h/view?usp=sharing
 
 ![](https://komarev.com/ghpvc/?username=sauravk0997&style=flat-square)
