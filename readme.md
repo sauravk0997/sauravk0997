@@ -2,7 +2,7 @@
 #### I'm a Software Test Engineer
 <hr>
 :book: I'm currently learning Python Selenium :smile:<br>
-:man_technologist: 2022's Goals:Learn Python, Django, Selenium, PyTest, Robot, Behave, API automation, JavaScript, AWS, Appium, Dockers<br>
+:man_technologist: 2022's Goals:Learn Python, Django, Selenium, PyTest, Robot, Behave, API automation, JavaScript, MongoDb, AWS, Appium, Dockers<br>
 :sparkler: Love to Experiment on Tech<br><br>
 
 [<img align="left" alt="-" width="152px" src="template.png" />][Resume]
